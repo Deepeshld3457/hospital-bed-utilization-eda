@@ -252,10 +252,10 @@ pip install pandas numpy matplotlib seaborn jupyter
 ## 👤 Author
 
 **Deepesh A**
-B.E Computer Science Engineering | Semester 5 | Batch 2022
+B.E Computer Science Engineering | Batch 2026
 Sri Venkateswara College of Engineering, Chennai
 
-📧 deepesh.a@svce.ac.in
+📧 deepeshld3457@gmail.com
 
 ---
 
