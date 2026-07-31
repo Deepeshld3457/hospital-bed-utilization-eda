@@ -66,6 +66,7 @@ Ran `df.describe()` to understand distributions of all numeric columns. Key obse
 ### Stage 4 — Visualizations & Analysis
 
 #### Plot 1 — Length of Stay Distribution
+![Length of Stay Distribution](images/los_distribution.png)
 **Chart type:** Histogram + Boxplot
 
 **Finding:** Right-skewed bimodal distribution — two distinct patient populations visible:
@@ -92,6 +93,7 @@ Facilities C, D, E average ~57% longer stays than A and B.
 ---
 
 #### Plot 3 — Patient Count by Facility
+![Patients per Facility](images/patients_per_facility.png)
 **Chart type:** Bar chart
 
 **Finding:**
@@ -123,6 +125,7 @@ Each additional readmission adds ~1.11 days to average stay. Patients with 5 rea
 ---
 
 #### Plot 5 — Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
 **Chart type:** Seaborn heatmap with annotation
 
 **Key correlations with lengthofstay:**
